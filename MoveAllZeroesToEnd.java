@@ -20,9 +20,5 @@ public class MoveAllZeroesToEnd {
         }
     }
 
-    public static void main(String[] args) {
-        MoveAllZeroesToEnd move = new MoveAllZeroesToEnd();
-
-        move.pushZerosToEnd(new int[]{1, 2, 0, 4, 3, 0, 5, 0});
-    }
+    
 }

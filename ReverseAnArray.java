@@ -14,4 +14,5 @@ public class ReverseAnArray {
         arr[idx1] = arr[idx2];
         arr[idx2] = temp;
     }
+
 }

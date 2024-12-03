@@ -15,6 +15,5 @@ public class SecondLargest {
 
         return secondLargest == Integer.MIN_VALUE ? -1 : secondLargest;
     }
-
 }
 
